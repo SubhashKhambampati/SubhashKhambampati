@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-👋 Hi, I’m @SubhashKhambampati 👀 I’m interested in AI<br>I'm currently working on AutoAnnote App<br>I'm currently learning react, nodejs
+👋 Hi, I’m @SubhashKhambampati <br>👀 I’m interested in AI<br>I'm currently working on AutoAnnote App<br>I'm currently learning react, nodejs
 
 
 ## 🌐 Socials:
